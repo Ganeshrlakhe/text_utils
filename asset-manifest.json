@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ganeshrlakhe/text_utils.git/static/css/main.ac7412b4.css",
-    "main.js": "/Ganeshrlakhe/text_utils.git/static/js/main.30cdb2f7.js",
-    "static/js/787.28372f46.chunk.js": "/Ganeshrlakhe/text_utils.git/static/js/787.28372f46.chunk.js",
-    "index.html": "/Ganeshrlakhe/text_utils.git/index.html",
-    "main.ac7412b4.css.map": "/Ganeshrlakhe/text_utils.git/static/css/main.ac7412b4.css.map",
-    "main.30cdb2f7.js.map": "/Ganeshrlakhe/text_utils.git/static/js/main.30cdb2f7.js.map",
-    "787.28372f46.chunk.js.map": "/Ganeshrlakhe/text_utils.git/static/js/787.28372f46.chunk.js.map"
+    "main.css": "/text_utils/static/css/main.ac7412b4.css",
+    "main.js": "/text_utils/static/js/main.a6289f23.js",
+    "static/js/787.28372f46.chunk.js": "/text_utils/static/js/787.28372f46.chunk.js",
+    "index.html": "/text_utils/index.html",
+    "main.ac7412b4.css.map": "/text_utils/static/css/main.ac7412b4.css.map",
+    "main.a6289f23.js.map": "/text_utils/static/js/main.a6289f23.js.map",
+    "787.28372f46.chunk.js.map": "/text_utils/static/js/787.28372f46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7412b4.css",
-    "static/js/main.30cdb2f7.js"
+    "static/js/main.a6289f23.js"
   ]
 }
